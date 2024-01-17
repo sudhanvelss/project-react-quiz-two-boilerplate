@@ -7,7 +7,7 @@
       "optionD": "150 degrees Celcius",
       "answer": "100 degrees Celcius"
   },
-
+  
   {
       "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
       "optionA": "Wole Soyinka",
@@ -27,7 +27,7 @@
   },
 
   {
-      "question": "Which is the only mammal that can’t jump?",
+      "question": "Which is the only mammal that can't jump?",
       "optionA": "Dog",
       "optionB": "Elephant",
       "optionC": "Goat",
